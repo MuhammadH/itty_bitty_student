@@ -1,3 +1,7 @@
+Other team members: 
+	Sarah Morgan: https://github.com/Sarah8020
+	Tim Frymire: https://github.com/TimFrymire
+
 Student IB Model
 	See the readme file for this model under its directory.
 
